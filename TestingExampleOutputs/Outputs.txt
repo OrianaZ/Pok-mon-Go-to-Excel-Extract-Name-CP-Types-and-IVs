@@ -1,0 +1,14 @@
+pokemon Grimer
+    Iv-testing-accuracy:
+        Use 2 rows
+        outputs: {'attack_bar': 15, 'defense_bar': 15, 'hp_bar': 15}
+    type-testing:
+        POISON
+
+
+pokemon Binacle
+    Iv-testing-accuracy:
+        Use 1 rows
+        outputs: {'attack_bar': 12, 'defense_bar': 15, 'hp_bar': 11}
+    type-testing:
+        ROCK/WATER  

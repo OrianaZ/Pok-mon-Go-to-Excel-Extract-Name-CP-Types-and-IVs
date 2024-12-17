@@ -1,0 +1,1075 @@
+Name,Type1,Type2
+Bulbasaur,GRASS, POISON
+Ivysaur,GRASS, POISON
+Venusaur,GRASS, POISON
+Venusaur,GRASS, POISON
+Charmander,FIRE,
+Charmeleon,FIRE,
+Charizard,FIRE, FLYING
+Charizard,FIRE, DRAGON
+Charizard,FIRE, FLYING
+Squirtle,WATER,
+Wartortle,WATER,
+Blastoise,WATER,
+Blastoise,WATER,
+Caterpie,BUG,
+Metapod,BUG,
+Butterfree,BUG, FLYING
+Weedle,BUG, POISON
+Kakuna,BUG, POISON
+Beedrill,BUG, POISON
+Beedrill,BUG, POISON
+Pidgey,NORMAL, FLYING
+Pidgeotto,NORMAL, FLYING
+Pidgeot,NORMAL, FLYING
+Pidgeot,NORMAL, FLYING
+Rattata,NORMAL,
+Rattata,DARK, NORMAL
+Raticate,NORMAL,
+Raticate,DARK, NORMAL
+Spearow,NORMAL, FLYING
+Fearow,NORMAL, FLYING
+Ekans,POISON,
+Arbok,POISON,
+Pikachu,ELECTRIC,
+Pikachu,ELECTRIC,
+Pikachu,ELECTRIC,
+Pikachu,ELECTRIC,
+Pikachu,ELECTRIC,
+Pikachu,ELECTRIC,
+Raichu,ELECTRIC,
+Raichu,ELECTRIC, PSYCHIC
+Sandshrew,GROUND,
+Sandshrew,ICE, STEEL
+Sandslash,GROUND,
+Sandslash,ICE, STEEL
+Nidoran,POISON,
+Nidorina,POISON,
+Nidoqueen,POISON, GROUND
+Nidoran♂,POISON,
+Nidorino,POISON,
+Nidoking,POISON, GROUND
+Clefairy,FAIRY,
+Clefable,FAIRY,
+Vulpix,FIRE,
+Vulpix,ICE,
+Ninetales,FIRE,
+Ninetales,ICE, FAIRY
+Jigglypuff,NORMAL, FAIRY
+Wigglytuff,NORMAL, FAIRY
+Zubat,POISON, FLYING
+Golbat,POISON, FLYING
+Oddish,GRASS, POISON
+Gloom,GRASS, POISON
+Vileplume,GRASS, POISON
+Paras,BUG, GRASS
+Parasect,BUG, GRASS
+Venonat,BUG, POISON
+Venomoth,BUG, POISON
+Diglett,GROUND,
+Diglett,GROUND, STEEL
+Dugtrio,GROUND,
+Dugtrio,GROUND, STEEL
+Meowth,NORMAL,
+Meowth,DARK,
+Meowth,STEEL,
+Persian,NORMAL,
+Persian,DARK,
+Psyduck,WATER,
+Golduck,WATER,
+Mankey,FIGHTING,
+Primeape,FIGHTING,
+Growlithe,FIRE,
+Growlithe,FIRE, ROCK
+Arcanine,FIRE,
+Arcanine,FIRE, ROCK
+Poliwag,WATER,
+Poliwhirl,WATER,
+Poliwrath,WATER, FIGHTING
+Abra,PSYCHIC,
+Kadabra,PSYCHIC,
+Alakazam,PSYCHIC,
+Alakazam,PSYCHIC,
+Machop,FIGHTING,
+Machoke,FIGHTING,
+Machamp,FIGHTING,
+Bellsprout,GRASS, POISON
+Weepinbell,GRASS, POISON
+Victreebel,GRASS, POISON
+Tentacool,WATER, POISON
+Tentacruel,WATER, POISON
+Geodude,ROCK, GROUND
+Geodude,ROCK, ELECTRIC
+Graveler,ROCK, GROUND
+Graveler,ROCK, ELECTRIC
+Golem,ROCK, GROUND
+Golem,ROCK, ELECTRIC
+Ponyta,FIRE,
+Ponyta,PSYCHIC,
+Rapidash,FIRE,
+Rapidash,PSYCHIC, FAIRY
+Slowpoke,WATER, PSYCHIC
+Slowpoke,PSYCHIC,
+Slowbro,WATER, PSYCHIC
+Slowbro,WATER, PSYCHIC
+Slowbro,POISON, PSYCHIC
+Magnemite,ELECTRIC, STEEL
+Magneton,ELECTRIC, STEEL
+Farfetch'd,NORMAL, FLYING
+Farfetch'd,FIGHTING,
+Doduo,NORMAL, FLYING
+Dodrio,NORMAL, FLYING
+Seel,WATER,
+Dewgong,WATER, ICE
+Grimer,POISON,
+Grimer,POISON, DARK
+Muk,POISON,
+Muk,POISON, DARK
+Shellder,WATER,
+Cloyster,WATER, ICE
+Gastly,GHOST, POISON
+Haunter,GHOST, POISON
+Gengar,GHOST, POISON
+Gengar,GHOST, POISON
+Onix,ROCK, GROUND
+Drowzee,PSYCHIC,
+Hypno,PSYCHIC,
+Krabby,WATER,
+Kingler,WATER,
+Voltorb,ELECTRIC,
+Voltorb,ELECTRIC, GRASS
+Electrode,ELECTRIC,
+Electrode,ELECTRIC, GRASS
+Exeggcute,GRASS, PSYCHIC
+Exeggutor,GRASS, PSYCHIC
+Exeggutor,GRASS, DRAGON
+Cubone,GROUND,
+Marowak,GROUND,
+Marowak,FIRE, GHOST
+Hitmonlee,FIGHTING,
+Hitmonchan,FIGHTING,
+Lickitung,NORMAL,
+Koffing,POISON,
+Weezing,POISON,
+Weezing,POISON, FAIRY
+Rhyhorn,GROUND, ROCK
+Rhydon,GROUND, ROCK
+Chansey,NORMAL,
+Tangela,GRASS,
+Kangaskhan,NORMAL,
+Kangaskhan,NORMAL,
+Horsea,WATER,
+Seadra,WATER,
+Goldeen,WATER,
+Seaking,WATER,
+Staryu,WATER,
+Starmie,WATER, PSYCHIC
+Mr. Mime,PSYCHIC, FAIRY
+Mr. Mime,ICE, PSYCHIC
+Scyther,BUG, FLYING
+Jynx,ICE, PSYCHIC
+Electabuzz,ELECTRIC,
+Magmar,FIRE,
+Pinsir,BUG,
+Pinsir,BUG, FLYING
+Tauros,NORMAL,
+Magikarp,WATER,
+Gyarados,WATER, FLYING
+Gyarados,WATER, DARK
+Lapras,WATER, ICE
+Ditto,NORMAL,
+Eevee,NORMAL,
+Vaporeon,WATER,
+Jolteon,ELECTRIC,
+Flareon,FIRE,
+Porygon,NORMAL,
+Omanyte,ROCK, WATER
+Omastar,ROCK, WATER
+Kabuto,ROCK, WATER
+Kabutops,ROCK, WATER
+Aerodactyl,ROCK, FLYING
+Aerodactyl,ROCK, FLYING
+Snorlax,NORMAL,
+Articuno,ICE, FLYING
+Articuno,PSYCHIC, FLYING
+Zapdos,ELECTRIC, FLYING
+Zapdos,FIGHTING, FLYING
+Moltres,FIRE, FLYING
+Moltres,DARK, FLYING
+Dratini,DRAGON,
+Dragonair,DRAGON,
+Dragonite,DRAGON, FLYING
+Mewtwo,PSYCHIC,
+Mewtwo,PSYCHIC,
+Mew,PSYCHIC,
+Chikorita,GRASS,
+Bayleef,GRASS,
+Meganium,GRASS,
+Cyndaquil,FIRE,
+Quilava,FIRE,
+Typhlosion,FIRE,
+Typhlosion,FIRE, GHOST
+Totodile,WATER,
+Croconaw,WATER,
+Feraligatr,WATER,
+Sentret,NORMAL,
+Furret,NORMAL,
+Hoothoot,NORMAL, FLYING
+Noctowl,NORMAL, FLYING
+Ledyba,BUG, FLYING
+Ledian,BUG, FLYING
+Spinarak,BUG, POISON
+Ariados,BUG, POISON
+Crobat,POISON, FLYING
+Chinchou,WATER, ELECTRIC
+Lanturn,WATER, ELECTRIC
+Pichu,ELECTRIC,
+Cleffa,FAIRY,
+Igglybuff,NORMAL, FAIRY
+Togepi,FAIRY,
+Togetic,FAIRY, FLYING
+Natu,PSYCHIC, FLYING
+Xatu,PSYCHIC, FLYING
+Mareep,ELECTRIC,
+Flaaffy,ELECTRIC,
+Ampharos,ELECTRIC,
+Ampharos,ELECTRIC, DRAGON
+Bellossom,GRASS,
+Marill,WATER, FAIRY
+Azumarill,WATER, FAIRY
+Sudowoodo,ROCK,
+Politoed,WATER,
+Hoppip,GRASS, FLYING
+Skiploom,GRASS, FLYING
+Jumpluff,GRASS, FLYING
+Aipom,NORMAL,
+Sunkern,GRASS,
+Sunflora,GRASS,
+Yanma,BUG, FLYING
+Wooper,WATER, GROUND
+Wooper,POISON, GROUND
+Quagsire,WATER, GROUND
+Espeon,PSYCHIC,
+Umbreon,DARK,
+Murkrow,DARK, FLYING
+Slowking,WATER, PSYCHIC
+Slowking,POISON, PSYCHIC
+Misdreavus,GHOST,
+Unown,PSYCHIC,
+Wobbuffet,PSYCHIC,
+Girafarig,NORMAL, PSYCHIC
+Pineco,BUG,
+Forretress,BUG, STEEL
+Dunsparce,NORMAL,
+Gligar,GROUND, FLYING
+Steelix,STEEL, GROUND
+Steelix,STEEL, GROUND
+Snubbull,FAIRY,
+Granbull,FAIRY,
+Qwilfish,WATER, POISON
+Qwilfish,DARK, POISON
+Scizor,BUG, STEEL
+Scizor,BUG, STEEL
+Shuckle,BUG, ROCK
+Heracross,BUG, FIGHTING
+Heracross,BUG, FIGHTING
+Sneasel,DARK, ICE
+Sneasel,FIGHTING, POISON
+Teddiursa,NORMAL,
+Ursaring,NORMAL,
+Slugma,FIRE,
+Magcargo,FIRE, ROCK
+Swinub,ICE, GROUND
+Piloswine,ICE, GROUND
+Corsola,WATER, ROCK
+Corsola,GHOST,
+Remoraid,WATER,
+Octillery,WATER,
+Delibird,ICE, FLYING
+Mantine,WATER, FLYING
+Skarmory,STEEL, FLYING
+Houndour,DARK, FIRE
+Houndoom,DARK, FIRE
+Houndoom,DARK, FIRE
+Kingdra,WATER, DRAGON
+Phanpy,GROUND,
+Donphan,GROUND,
+Porygon2,NORMAL,
+Stantler,NORMAL,
+Smeargle,NORMAL,
+Tyrogue,FIGHTING,
+Hitmontop,FIGHTING,
+Smoochum,ICE, PSYCHIC
+Elekid,ELECTRIC,
+Magby,FIRE,
+Miltank,NORMAL,
+Blissey,NORMAL,
+Raikou,ELECTRIC,
+Entei,FIRE,
+Suicune,WATER,
+Larvitar,ROCK, GROUND
+Pupitar,ROCK, GROUND
+Tyranitar,ROCK, DARK
+Tyranitar,ROCK, DARK
+Lugia,PSYCHIC, FLYING
+Lugia,PSYCHIC, FLYING
+Ho-Oh,FIRE, FLYING
+Ho-Oh,FIRE, FLYING
+Celebi,PSYCHIC, GRASS
+Treecko,GRASS,
+Grovyle,GRASS,
+Sceptile,GRASS,
+Sceptile,GRASS, DRAGON
+Torchic,FIRE,
+Combusken,FIRE, FIGHTING
+Blaziken,FIRE, FIGHTING
+Blaziken,FIRE, FIGHTING
+Mudkip,WATER,
+Marshtomp,WATER, GROUND
+Swampert,WATER, GROUND
+Swampert,WATER, GROUND
+Poochyena,DARK,
+Mightyena,DARK,
+Zigzagoon,NORMAL,
+Zigzagoon,DARK, NORMAL
+Linoone,NORMAL,
+Linoone,DARK, NORMAL
+Wurmple,BUG,
+Silcoon,BUG,
+Beautifly,BUG, FLYING
+Cascoon,BUG,
+Dustox,BUG, POISON
+Lotad,WATER, GRASS
+Lombre,WATER, GRASS
+Ludicolo,WATER, GRASS
+Seedot,GRASS,
+Nuzleaf,GRASS, DARK
+Shiftry,GRASS, DARK
+Taillow,NORMAL, FLYING
+Swellow,NORMAL, FLYING
+Wingull,WATER, FLYING
+Pelipper,WATER, FLYING
+Ralts,PSYCHIC, FAIRY
+Kirlia,PSYCHIC, FAIRY
+Gardevoir,PSYCHIC, FAIRY
+Gardevoir,PSYCHIC, FAIRY
+Surskit,BUG, WATER
+Masquerain,BUG, FLYING
+Shroomish,GRASS,
+Breloom,GRASS, FIGHTING
+Slakoth,NORMAL,
+Vigoroth,NORMAL,
+Slaking,NORMAL,
+Nincada,BUG, GROUND
+Ninjask,BUG, FLYING
+Shedinja,BUG, GHOST
+Whismur,NORMAL,
+Loudred,NORMAL,
+Exploud,NORMAL,
+Makuhita,FIGHTING,
+Hariyama,FIGHTING,
+Azurill,NORMAL, FAIRY
+Nosepass,ROCK,
+Skitty,NORMAL,
+Delcatty,NORMAL,
+Sableye,DARK, GHOST
+Sableye,DARK, GHOST
+Mawile,STEEL, FAIRY
+Mawile,STEEL, FAIRY
+Aron,STEEL, ROCK
+Lairon,STEEL, ROCK
+Aggron,STEEL, ROCK
+Aggron,STEEL,
+Meditite,FIGHTING, PSYCHIC
+Medicham,FIGHTING, PSYCHIC
+Medicham,FIGHTING, PSYCHIC
+Electrike,ELECTRIC,
+Manectric,ELECTRIC,
+Manectric,ELECTRIC,
+Plusle,ELECTRIC,
+Minun,ELECTRIC,
+Volbeat,BUG,
+Illumise,BUG,
+Roselia,GRASS, POISON
+Gulpin,POISON,
+Swalot,POISON,
+Carvanha,WATER, DARK
+Sharpedo,WATER, DARK
+Wailmer,WATER,
+Wailord,WATER,
+Numel,FIRE, GROUND
+Camerupt,FIRE, GROUND
+Torkoal,FIRE,
+Spoink,PSYCHIC,
+Grumpig,PSYCHIC,
+Spinda,NORMAL,
+Trapinch,GROUND,
+Vibrava,GROUND, DRAGON
+Flygon,GROUND, DRAGON
+Cacnea,GRASS,
+Cacturne,GRASS, DARK
+Swablu,NORMAL, FLYING
+Altaria,DRAGON, FLYING
+Altaria,DRAGON, FAIRY
+Zangoose,NORMAL,
+Seviper,POISON,
+Lunatone,ROCK, PSYCHIC
+Solrock,ROCK, PSYCHIC
+Barboach,WATER, GROUND
+Whiscash,WATER, GROUND
+Corphish,WATER,
+Crawdaunt,WATER, DARK
+Baltoy,GROUND, PSYCHIC
+Claydol,GROUND, PSYCHIC
+Lileep,ROCK, GRASS
+Cradily,ROCK, GRASS
+Anorith,ROCK, BUG
+Armaldo,ROCK, BUG
+Feebas,WATER,
+Milotic,WATER,
+Castform,NORMAL,
+Castform,FIRE,
+Castform,WATER,
+Castform,ICE,
+Kecleon,NORMAL,
+Shuppet,GHOST,
+Banette,GHOST,
+Banette,GHOST,
+Duskull,GHOST,
+Dusclops,GHOST,
+Tropius,GRASS, FLYING
+Chimecho,PSYCHIC,
+Absol,DARK,
+Absol,DARK,
+Wynaut,PSYCHIC,
+Snorunt,ICE,
+Glalie,ICE,
+Glalie,ICE,
+Spheal,ICE, WATER
+Sealeo,ICE, WATER
+Walrein,ICE, WATER
+Clamperl,WATER,
+Huntail,WATER,
+Gorebyss,WATER,
+Relicanth,WATER, ROCK
+Luvdisc,WATER,
+Bagon,DRAGON,
+Shelgon,DRAGON,
+Salamence,DRAGON, FLYING
+Salamence,DRAGON, FLYING
+Beldum,STEEL, PSYCHIC
+Metang,STEEL, PSYCHIC
+Metagross,STEEL, PSYCHIC
+Regirock,ROCK,
+Regice,ICE,
+Registeel,STEEL,
+Latias,DRAGON, PSYCHIC
+Latias,DRAGON, PSYCHIC
+Latios,DRAGON, PSYCHIC
+Latios,DRAGON, PSYCHIC
+Kyogre,WATER,
+Kyogre,WATER,
+Groudon,GROUND,
+Groudon,GROUND, FIRE
+Rayquaza,DRAGON, FLYING
+Rayquaza,DRAGON, FLYING
+Jirachi,STEEL, PSYCHIC
+Deoxys,PSYCHIC,
+Deoxys,PSYCHIC,
+Deoxys,PSYCHIC,
+Deoxys,PSYCHIC,
+Turtwig,GRASS,
+Grotle,GRASS,
+Torterra,GRASS, GROUND
+Chimchar,FIRE,
+Monferno,FIRE, FIGHTING
+Infernape,FIRE, FIGHTING
+Piplup,WATER,
+Prinplup,WATER,
+Empoleon,WATER, STEEL
+Starly,NORMAL, FLYING
+Staravia,NORMAL, FLYING
+Staraptor,NORMAL, FLYING
+Bidoof,NORMAL,
+Bibarel,NORMAL, WATER
+Kricketot,BUG,
+Kricketune,BUG,
+Shinx,ELECTRIC,
+Luxio,ELECTRIC,
+Luxray,ELECTRIC,
+Budew,GRASS, POISON
+Roserade,GRASS, POISON
+Cranidos,ROCK,
+Rampardos,ROCK,
+Shieldon,ROCK, STEEL
+Bastiodon,ROCK, STEEL
+Burmy,BUG,
+Burmy,BUG,
+Burmy,BUG,
+Wormadam,BUG, GRASS
+Wormadam,BUG, GROUND
+Wormadam,BUG, STEEL
+Mothim,BUG, FLYING
+Combee,BUG, FLYING
+Vespiquen,BUG, FLYING
+Pachirisu,ELECTRIC,
+Buizel,WATER,
+Floatzel,WATER,
+Cherubi,GRASS,
+Cherrim,GRASS,
+Cherrim,GRASS,
+Shellos,WATER,
+Shellos,WATER,
+Gastrodon,WATER, GROUND
+Gastrodon,WATER, GROUND
+Ambipom,NORMAL,
+Drifloon,GHOST, FLYING
+Drifblim,GHOST, FLYING
+Buneary,NORMAL,
+Lopunny,NORMAL,
+Lopunny,NORMAL, FIGHTING
+Mismagius,GHOST,
+Honchkrow,DARK, FLYING
+Glameow,NORMAL,
+Purugly,NORMAL,
+Chingling,PSYCHIC,
+Stunky,POISON, DARK
+Skuntank,POISON, DARK
+Bronzor,STEEL, PSYCHIC
+Bronzong,STEEL, PSYCHIC
+Bonsly,ROCK,
+Mime Jr.,PSYCHIC, FAIRY
+Happiny,NORMAL,
+Chatot,NORMAL, FLYING
+Spiritomb,GHOST, DARK
+Gible,DRAGON, GROUND
+Gabite,DRAGON, GROUND
+Garchomp,DRAGON, GROUND
+Munchlax,NORMAL,
+Riolu,FIGHTING,
+Lucario,FIGHTING, STEEL
+Lucario,FIGHTING, STEEL
+Hippopotas,GROUND,
+Hippowdon,GROUND,
+Skorupi,POISON, BUG
+Drapion,POISON, DARK
+Croagunk,POISON, FIGHTING
+Toxicroak,POISON, FIGHTING
+Carnivine,GRASS,
+Finneon,WATER,
+Lumineon,WATER,
+Mantyke,WATER, FLYING
+Snover,GRASS, ICE
+Abomasnow,GRASS, ICE
+Abomasnow,GRASS, ICE
+Weavile,DARK, ICE
+Magnezone,ELECTRIC, STEEL
+Lickilicky,NORMAL,
+Rhyperior,GROUND, ROCK
+Tangrowth,GRASS,
+Electivire,ELECTRIC,
+Magmortar,FIRE,
+Togekiss,FAIRY, FLYING
+Yanmega,BUG, FLYING
+Leafeon,GRASS,
+Glaceon,ICE,
+Gliscor,GROUND, FLYING
+Mamoswine,ICE, GROUND
+Porygon-Z,NORMAL,
+Gallade,PSYCHIC, FIGHTING
+Probopass,ROCK, STEEL
+Dusknoir,GHOST,
+Froslass,ICE, GHOST
+Rotom,ELECTRIC, GHOST
+Rotom,ELECTRIC, WATER
+Rotom,ELECTRIC, ICE
+Rotom,ELECTRIC, GRASS
+Uxie,PSYCHIC,
+Mesprit,PSYCHIC,
+Azelf,PSYCHIC,
+Dialga,STEEL, DRAGON
+Dialga,STEEL, DRAGON
+Palkia,WATER, DRAGON
+Palkia,WATER, DRAGON
+Heatran,FIRE, STEEL
+Regigigas,NORMAL,
+Giratina,GHOST, DRAGON
+Giratina,GHOST, DRAGON
+Cresselia,PSYCHIC,
+Darkrai,DARK,
+Shaymin,GRASS,
+Shaymin,GRASS, FLYING
+Victini,PSYCHIC, FIRE
+Snivy,GRASS,
+Servine,GRASS,
+Serperior,GRASS,
+Tepig,FIRE,
+Pignite,FIRE, FIGHTING
+Emboar,FIRE, FIGHTING
+Oshawott,WATER,
+Dewott,WATER,
+Samurott,WATER,
+Samurott,WATER, DARK
+Patrat,NORMAL,
+Watchog,NORMAL,
+Lillipup,NORMAL,
+Herdier,NORMAL,
+Stoutland,NORMAL,
+Purrloin,DARK,
+Liepard,DARK,
+Pansage,GRASS,
+Simisage,GRASS,
+Pansear,FIRE,
+Simisear,FIRE,
+Panpour,WATER,
+Simipour,WATER,
+Munna,PSYCHIC,
+Musharna,PSYCHIC,
+Pidove,NORMAL, FLYING
+Tranquill,NORMAL, FLYING
+Unfezant,NORMAL, FLYING
+Blitzle,ELECTRIC,
+Zebstrika,ELECTRIC,
+Roggenrola,ROCK,
+Boldore,ROCK,
+Gigalith,ROCK,
+Woobat,PSYCHIC, FLYING
+Swoobat,PSYCHIC, FLYING
+Drilbur,GROUND,
+Excadrill,GROUND, STEEL
+Audino,NORMAL,
+Timburr,FIGHTING,
+Gurdurr,FIGHTING,
+Conkeldurr,FIGHTING,
+Tympole,WATER,
+Palpitoad,WATER, GROUND
+Seismitoad,WATER, GROUND
+Throh,FIGHTING,
+Sawk,FIGHTING,
+Sewaddle,BUG, GRASS
+Swadloon,BUG, GRASS
+Leavanny,BUG, GRASS
+Venipede,BUG, POISON
+Whirlipede,BUG, POISON
+Scolipede,BUG, POISON
+Cottonee,GRASS, FAIRY
+Whimsicott,GRASS, FAIRY
+Petilil,GRASS,
+Lilligant,GRASS,
+Basculin,WATER,
+Basculin,WATER,
+Basculin,WATER,
+Sandile,GROUND, DARK
+Krokorok,GROUND, DARK
+Krookodile,GROUND, DARK
+Darumaka,FIRE,
+Darumaka,ICE,
+Darmanitan,FIRE,
+Darmanitan,ICE,
+Maractus,GRASS,
+Dwebble,BUG, ROCK
+Crustle,BUG, ROCK
+Scraggy,DARK, FIGHTING
+Scrafty,DARK, FIGHTING
+Sigilyph,PSYCHIC, FLYING
+Yamask,GHOST,
+Yamask,GROUND, GHOST
+Cofagrigus,GHOST,
+Tirtouga,WATER, ROCK
+Carracosta,WATER, ROCK
+Archen,ROCK, FLYING
+Archeops,ROCK, FLYING
+Trubbish,POISON,
+Garbodor,POISON,
+Zorua,DARK,
+Zoroark,DARK,
+Minccino,NORMAL,
+Cinccino,NORMAL,
+Gothita,PSYCHIC,
+Gothorita,PSYCHIC,
+Gothitelle,PSYCHIC,
+Solosis,PSYCHIC,
+Duosion,PSYCHIC,
+Reuniclus,PSYCHIC,
+Ducklett,WATER, FLYING
+Swanna,WATER, FLYING
+Vanillite,ICE,
+Vanillish,ICE,
+Vanilluxe,ICE,
+Deerling,NORMAL, GRASS
+Deerling,NORMAL, GRASS
+Deerling,NORMAL, GRASS
+Deerling,NORMAL, GRASS
+Sawsbuck,NORMAL, GRASS
+Sawsbuck,NORMAL, GRASS
+Sawsbuck,NORMAL, GRASS
+Sawsbuck,NORMAL, GRASS
+Emolga,ELECTRIC, FLYING
+Karrablast,BUG,
+Escavalier,BUG, STEEL
+Foongus,GRASS, POISON
+Amoonguss,GRASS, POISON
+Frillish,WATER, GHOST
+Frillish,WATER, GHOST
+Jellicent,WATER, GHOST
+Jellicent,WATER, GHOST
+Alomomola,WATER,
+Joltik,BUG, ELECTRIC
+Galvantula,BUG, ELECTRIC
+Ferroseed,GRASS, STEEL
+Ferrothorn,GRASS, STEEL
+Klink,STEEL,
+Klang,STEEL,
+Klinklang,STEEL,
+Tynamo,ELECTRIC,
+Eelektrik,ELECTRIC,
+Eelektross,ELECTRIC,
+Elgyem,PSYCHIC,
+Beheeyem,PSYCHIC,
+Litwick,GHOST, FIRE
+Lampent,GHOST, FIRE
+Chandelure,GHOST, FIRE
+Axew,DRAGON,
+Fraxure,DRAGON,
+Haxorus,DRAGON,
+Cubchoo,ICE,
+Beartic,ICE,
+Cryogonal,ICE,
+Shelmet,BUG,
+Accelgor,BUG,
+Stunfisk,GROUND, ELECTRIC
+Stunfisk,GROUND, STEEL
+Mienfoo,FIGHTING,
+Mienshao,FIGHTING,
+Druddigon,DRAGON,
+Golett,GROUND, GHOST
+Golurk,GROUND, GHOST
+Pawniard,DARK, STEEL
+Bisharp,DARK, STEEL
+Bouffalant,NORMAL,
+Rufflet,NORMAL, FLYING
+Braviary,NORMAL, FLYING
+Braviary,PSYCHIC, FLYING
+Vullaby,DARK, FLYING
+Mandibuzz,DARK, FLYING
+Heatmor,FIRE,
+Durant,BUG, STEEL
+Deino,DARK, DRAGON
+Zweilous,DARK, DRAGON
+Hydreigon,DARK, DRAGON
+Larvesta,BUG, FIRE
+Volcarona,BUG, FIRE
+Cobalion,STEEL, FIGHTING
+Terrakion,ROCK, FIGHTING
+Virizion,GRASS, FIGHTING
+Tornadus,FLYING,
+Tornadus,FLYING,
+Thundurus,ELECTRIC, FLYING
+Thundurus,ELECTRIC, FLYING
+Reshiram,DRAGON, FIRE
+Zekrom,DRAGON, ELECTRIC
+Landorus,GROUND, FLYING
+Landorus,GROUND, FLYING
+Kyurem,DRAGON, ICE
+Keldeo,WATER, FIGHTING
+Meloetta,NORMAL, PSYCHIC
+Genesect,BUG, STEEL
+Genesect,BUG, STEEL
+Genesect,BUG, STEEL
+Genesect,BUG, STEEL
+Genesect,BUG, STEEL
+Chespin,GRASS,
+Quilladin,GRASS,
+Chesnaught,GRASS, FIGHTING
+Fennekin,FIRE,
+Braixen,FIRE,
+Delphox,FIRE, PSYCHIC
+Froakie,WATER,
+Frogadier,WATER,
+Greninja,WATER, DARK
+Bunnelby,NORMAL,
+Diggersby,NORMAL, GROUND
+Fletchling,NORMAL, FLYING
+Fletchinder,FIRE, FLYING
+Talonflame,FIRE, FLYING
+Scatterbug,BUG,
+Spewpa,BUG,
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Vivillon,BUG, FLYING
+Litleo,FIRE, NORMAL
+Pyroar,FIRE, NORMAL
+Pyroar,FIRE, NORMAL
+Flabébé,FAIRY,
+Flabébé,FAIRY,
+Flabébé,FAIRY,
+Flabébé,FAIRY,
+Flabébé,FAIRY,
+Floette,FAIRY,
+Floette,FAIRY,
+Floette,FAIRY,
+Floette,FAIRY,
+Floette,FAIRY,
+Florges,FAIRY,
+Florges,FAIRY,
+Florges,FAIRY,
+Florges,FAIRY,
+Florges,FAIRY,
+Skiddo,GRASS,
+Gogoat,GRASS,
+Pancham,FIGHTING,
+Pangoro,FIGHTING, DARK
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Furfrou,NORMAL,
+Espurr,PSYCHIC,
+Meowstic,PSYCHIC,
+Meowstic,PSYCHIC,
+Spritzee,FAIRY,
+Aromatisse,FAIRY,
+Swirlix,FAIRY,
+Slurpuff,FAIRY,
+Inkay,DARK, PSYCHIC
+Malamar,DARK, PSYCHIC
+Binacle,ROCK, WATER
+Barbaracle,ROCK, WATER
+Skrelp,POISON, WATER
+Dragalge,POISON, DRAGON
+Clauncher,WATER,
+Clawitzer,WATER,
+Helioptile,ELECTRIC, NORMAL
+Heliolisk,ELECTRIC, NORMAL
+Tyrunt,ROCK, DRAGON
+Tyrantrum,ROCK, DRAGON
+Amaura,ROCK, ICE
+Aurorus,ROCK, ICE
+Sylveon,FAIRY,
+Hawlucha,FIGHTING, FLYING
+Dedenne,ELECTRIC, FAIRY
+Carbink,ROCK, FAIRY
+Goomy,DRAGON,
+Sliggoo,DRAGON,
+Goodra,DRAGON,
+Klefki,STEEL, FAIRY
+Phantump,GHOST, GRASS
+Trevenant,GHOST, GRASS
+Pumpkaboo,GHOST, GRASS
+Pumpkaboo,GHOST, GRASS
+Pumpkaboo,GHOST, GRASS
+Pumpkaboo,GHOST, GRASS
+Gourgeist,GHOST, GRASS
+Gourgeist,GHOST, GRASS
+Gourgeist,GHOST, GRASS
+Gourgeist,GHOST, GRASS
+Bergmite,ICE,
+Avalugg,ICE,
+Avalugg,ICE, ROCK
+Noibat,FLYING, DRAGON
+Noivern,FLYING, DRAGON
+Xerneas,FAIRY,
+Yveltal,DARK, FLYING
+Zygarde,DRAGON, GROUND
+Zygarde,DRAGON, GROUND
+Zygarde,DRAGON, GROUND
+Diancie,ROCK, FAIRY
+Diancie,ROCK, FAIRY
+Hoopa,PSYCHIC, GHOST
+Hoopa,PSYCHIC, DARK
+Rowlet,GRASS, FLYING
+Dartrix,GRASS, FLYING
+Decidueye,GRASS, GHOST
+Decidueye,GRASS, FIGHTING
+Litten,FIRE,
+Torracat,FIRE,
+Incineroar,FIRE, DARK
+Popplio,WATER,
+Brionne,WATER,
+Primarina,WATER, FAIRY
+Pikipek,NORMAL, FLYING
+Trumbeak,NORMAL, FLYING
+Toucannon,NORMAL, FLYING
+Yungoos,NORMAL,
+Gumshoos,NORMAL,
+Grubbin,BUG,
+Charjabug,BUG, ELECTRIC
+Vikavolt,BUG, ELECTRIC
+Crabrawler,FIGHTING,
+Crabominable,FIGHTING, ICE
+Oricorio,FIRE, FLYING
+Oricorio,ELECTRIC, FLYING
+Oricorio,PSYCHIC, FLYING
+Oricorio,GHOST, FLYING
+Cutiefly,BUG, FAIRY
+Ribombee,BUG, FAIRY
+Rockruff,ROCK,
+Rockruff,ROCK,
+Lycanroc,ROCK,
+Lycanroc,ROCK,
+Lycanroc,ROCK,
+Mareanie,POISON, WATER
+Toxapex,POISON, WATER
+Dewpider,WATER, BUG
+Araquanid,WATER, BUG
+Fomantis,GRASS,
+Lurantis,GRASS,
+Morelull,GRASS, FAIRY
+Shiinotic,GRASS, FAIRY
+Salandit,POISON, FIRE
+Salazzle,POISON, FIRE
+Stufful,NORMAL, FIGHTING
+Bewear,NORMAL, FIGHTING
+Bounsweet,GRASS,
+Steenee,GRASS,
+Tsareena,GRASS,
+Comfey,FAIRY,
+Oranguru,NORMAL, PSYCHIC
+Passimian,FIGHTING,
+Wimpod,BUG, WATER
+Golisopod,BUG, WATER
+Sandygast,GHOST, GROUND
+Palossand,GHOST, GROUND
+Komala,NORMAL,
+Turtonator,FIRE, DRAGON
+Togedemaru,ELECTRIC, STEEL
+Bruxish,WATER, PSYCHIC
+Drampa,NORMAL, DRAGON
+Jangmo-o,DRAGON,
+Hakamo-o,DRAGON, FIGHTING
+Kommo-o,DRAGON, FIGHTING
+Tapu Koko,ELECTRIC, FAIRY
+Tapu Lele,PSYCHIC, FAIRY
+Tapu Bulu,GRASS, FAIRY
+Tapu Fini,WATER, FAIRY
+Cosmog,PSYCHIC,
+Cosmoem,PSYCHIC,
+Solgaleo,PSYCHIC, STEEL
+Lunala,PSYCHIC, GHOST
+Nihilego,ROCK, POISON
+Buzzwole,BUG, FIGHTING
+Pheromosa,BUG, FIGHTING
+Xurkitree,ELECTRIC,
+Celesteela,STEEL, FLYING
+Kartana,GRASS, STEEL
+Guzzlord,DARK, DRAGON
+Necrozma,PSYCHIC,
+Necrozma,PSYCHIC, STEEL
+Necrozma,PSYCHIC, GHOST
+Marshadow,FIGHTING, GHOST
+Poipole,POISON,
+Naganadel,POISON, DRAGON
+Stakataka,ROCK, STEEL
+Blacephalon,FIRE, GHOST
+Meltan,STEEL,
+Melmetal,STEEL,
+Grookey,GRASS,
+Thwackey,GRASS,
+Rillaboom,GRASS,
+Scorbunny,FIRE,
+Raboot,FIRE,
+Cinderace,FIRE,
+Sobble,WATER,
+Drizzile,WATER,
+Inteleon,WATER,
+Skwovet,NORMAL,
+Greedent,NORMAL,
+Wooloo,NORMAL,
+Dubwool,NORMAL,
+Toxel,ELECTRIC, POISON
+Toxtricity,ELECTRIC, POISON
+Toxtricity,ELECTRIC, POISON
+Hatenna,PSYCHIC,
+Hattrem,PSYCHIC,
+Hatterene,PSYCHIC, FAIRY
+Obstagoon,DARK, NORMAL
+Perrserker,STEEL,
+Cursola,GHOST,
+Sirfetch'd,FIGHTING,
+Mr. Rime,ICE, PSYCHIC
+Runerigus,GROUND, GHOST
+Falinks,FIGHTING,
+Stonjourner,ROCK,
+Morpeko,ELECTRIC, DARK
+Morpeko,ELECTRIC, DARK
+Dreepy,DRAGON, GHOST
+Drakloak,DRAGON, GHOST
+Dragapult,DRAGON, GHOST
+Zacian,FAIRY,
+Zamazenta,FIGHTING,
+Zarude,DARK, GRASS
+Regieleki,ELECTRIC,
+Regidrago,DRAGON,
+Wyrdeer,NORMAL, PSYCHIC
+Kleavor,BUG, ROCK
+Ursaluna,GROUND, NORMAL
+Sneasler,FIGHTING, POISON
+Overqwil,DARK, POISON
+Enamorus,FAIRY, FLYING
+Sprigatito,GRASS,
+Floragato,GRASS,
+Meowscarada,GRASS, DARK
+Fuecoco,FIRE,
+Crocalor,FIRE,
+Skeledirge,FIRE, GHOST
+Quaxly,WATER,
+Quaxwell,WATER,
+Quaquaval,WATER, FIGHTING
+Lechonk,NORMAL,
+Oinkologne,NORMAL,
+Oinkologne,NORMAL,
+Nymble,BUG,
+Lokix,BUG, DARK
+Pawmi,ELECTRIC,
+Pawmo,ELECTRIC, FIGHTING
+Pawmot,ELECTRIC, FIGHTING
+Tandemaus,NORMAL,
+Maushold,NORMAL,
+Maushold,NORMAL,
+Smoliv,GRASS, NORMAL
+Dolliv,GRASS, NORMAL
+Arboliva,GRASS, NORMAL
+Charcadet,FIRE,
+Armarouge,FIRE, PSYCHIC
+Ceruledge,FIRE, GHOST
+Tadbulb,ELECTRIC,
+Bellibolt,ELECTRIC,
+Wiglett,WATER,
+Wugtrio,WATER,
+Bombirdier,FLYING, DARK
+Varoom,STEEL, POISON
+Revavroom,STEEL, POISON
+Greavard,GHOST,
+Houndstone,GHOST,
+Cetoddle,ICE,
+Cetitan,ICE,
+Annihilape,FIGHTING, GHOST
+Clodsire,POISON, GROUND
+Frigibax,DRAGON, ICE
+Arctibax,DRAGON, ICE
+Baxcalibur,DRAGON, ICE
+Gimmighoul,GHOST,
+Gholdengo,STEEL, GHOST
+Sinistea,GHOST
