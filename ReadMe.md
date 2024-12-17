@@ -1,4 +1,4 @@
-# Pokémon Go to Excel: Name, CP, Types, IV's
+# Pokémon Go to Excel: Extract Name, CP, Types, and IVs
 
 ## Summary
 This project automates the extraction and validation of Pokémon details from video footage of scrolling through Pokémon storage. It includes Python scripts to convert MP4 video files into individual image frames, extract key details such as Pokémon name, CP (Combat Power), types, and IV stats using OCR and image processing, and validate the accuracy of extracted data. Testing utilities are provided to verify IV calculations, ROIs, and type recognition. A final validation script ensures that the extracted Pokémon types align with the corresponding Pokémon names, so that the user can manually ensure correctness. The processed data is then compiled into an Excel file for easy analysis.  
